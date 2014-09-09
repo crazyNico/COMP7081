@@ -15,7 +15,7 @@ public class Server {
 	private ArrayList<ClientThread> al;
 	// if I am in a GUI
 	private ServerGUI sg;
-	// to display time
+	// to display time111
 	private SimpleDateFormat sdf;
 	// the port number to listen for connection
 	private int port;
